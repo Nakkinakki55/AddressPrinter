@@ -13,7 +13,8 @@
 - **API**: `zipcloud`（郵便番号検索API）
 
 ## アプリの実行場所
-アプリの実行ファイルは以下にあります：
+アプリの実行ファイルは以下にあります
+<br>
 \AddressPrinter\AddressPrinterPart2\AddressPrinter\bin\Debug\AddressPrinter.exe
 
 
