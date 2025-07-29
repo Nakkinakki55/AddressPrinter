@@ -43,7 +43,7 @@ cd AddressPrinter
 
 This is a user-friendly desktop application developed with C# and Visual Studio, designed to simplify the printing of addresses and recipient names. A key feature is its ability to automatically populate addresses once a postal code is entered, making it exceptionally simple and intuitive to use.
 
-## 特徴
+## Features
 - **Postal Code Lookup**: utomatically inputs addresses using the　`zipcloud` API.
 - **Postcard Printing**: Easily prints entered addresses, recipient names, and affiliations onto postcards.
 - **User-Friendly GUI**: Simple and intuitive operation screen.
