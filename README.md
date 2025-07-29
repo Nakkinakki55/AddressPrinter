@@ -37,6 +37,46 @@ cd AddressPrinter
 
 ![image](https://github.com/user-attachments/assets/ec105275-a080-4d04-9f69-94627188f299)
 
+---
+
+# AddressPrinter (Postcard Printing Application)
+
+This is a user-friendly desktop application developed with C# and Visual Studio, designed to simplify the printing of addresses and recipient names. A key feature is its ability to automatically populate addresses once a postal code is entered, making it exceptionally simple and intuitive to use.
+
+## 特徴
+- **Postal Code Lookup**: utomatically inputs addresses using the　`zipcloud` API.
+- **Postcard Printing**: Easily prints entered addresses, recipient names, and affiliations onto postcards.
+- **User-Friendly GUI**: Simple and intuitive operation screen.
+
+## Technologies Used
+- **Programming Language**: C#
+- **IDE**: Visual Studio 2022
+- **API**: `zipcloud` (Postal Code Search API)
+
+## Application Execution Path
+The application executable file is located at:
+```txt
+\AddressPrinter\AddressPrinterPart2\AddressPrinter\bin\Debug\AddressPrinter.exe
+```
+
+## Installation
+1. Clone this repository:
+```txt
+git clone https://github.com/Nakkinakki55/AddressPrinter.git
+cd AddressPrinter
+```
+
+## Usage
+1. Launch the application and enter the postal code, recipient name, and affiliation.
+
+2. Click the [住所検索] (Address Search) button to confirm automatic address input.
+
+3. Click the [印刷] (Print) button to print onto a postcard.
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/ea112fc6-530c-48bc-b78a-48627b856ea7)
+
+![image](https://github.com/user-attachments/assets/ec105275-a080-4d04-9f69-94627188f299)
 
 
 
